@@ -1,0 +1,2 @@
+"0","df_coefs = data.frame(""multi_coefs""=summary(boston.allvar)$coef[-1,1])"
+"0","df_coefs$simple_coefs = NA"

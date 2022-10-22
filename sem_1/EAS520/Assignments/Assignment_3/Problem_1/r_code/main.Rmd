@@ -1,0 +1,59 @@
+---
+---
+---
+
+# Problem1:Root-finding Numerical Experiment
+
+```{r}
+library(doParallel)
+library(parallel)
+library(pracma)
+```
+
+```{r}
+n <- 4^9
+
+f <- function(x) {
+    return(sin(3 * pi * cos(2 * pi * x) * sin(pi * x)))
+}
+```
+
+## Normal Computation (Computing t1)
+
+```{r}
+start_time <- Sys.time()
+result_1 <- foreach(i = 1:n) %do% fzero(f, i)
+t1 <- Sys.time() - start_time
+
+sprintf("t1: %f", t1)
+```
+
+## Embarrasingly Parallel Computation (Computing tp)
+
+```{r}
+my_cluster <- makeCluster(detectCores(), type = "PSOCK")
+registerDoParallel(my_cluster)
+
+
+start_time_2 <- Sys.time()
+# result2 <- parallel::mclapply(1:n, function(x) fzero(root, x)) # nolint
+result_2 <- foreach(i = 1:n, .packages = c("pracma")) %dopar% fzero(f, i)
+tp <- Sys.time() - start_time_2
+
+stopCluster(my_cluster)
+
+sprintf("tp: %f", tp)
+
+```
+
+## Printing results
+
+```{r}
+speedup <- as.numeric(t1) / as.numeric(tp)
+efficiency <- (speedup / detectCores()) * 100
+
+sprintf("t1: %f", t1)
+sprintf("tp: %f", tp)
+sprintf("Speedup: %f", speedup)
+sprintf("Average Efficiency: %f", efficiency)
+```

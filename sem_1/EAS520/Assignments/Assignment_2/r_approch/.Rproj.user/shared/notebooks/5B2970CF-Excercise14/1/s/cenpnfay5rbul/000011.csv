@@ -1,0 +1,3 @@
+"0","autocorr = cor(subset(Auto1,select = -c(name)))"
+"2","Error in cor(subset(Auto1, select = -c(name))) : 'x' must be numeric
+"

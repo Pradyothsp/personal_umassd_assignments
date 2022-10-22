@@ -1,0 +1,3 @@
+"0","train <- (Year < 2009)"
+"0","weekly.2009 <- weekly[!train, ]"
+"0","Direction.2009 <- Direction[!train]"

@@ -1,0 +1,3 @@
+"0","library(ISLR)"
+"0","Boston = read.csv(""/Volumes/work/MTH522/data/Boston.csv"")"
+"0","head(Boston)"

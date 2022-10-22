@@ -1,0 +1,1 @@
+"0","plot(factor(Auto$mpg01), Auto$acceleration, ylab = ""Time to reach 60mpg (seconds)"")"

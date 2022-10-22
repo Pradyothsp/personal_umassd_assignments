@@ -1,0 +1,1 @@
+"0","abline(h = median(Auto$mpg), lwd = 2, col = ""red"")"

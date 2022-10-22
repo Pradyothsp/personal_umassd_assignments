@@ -1,0 +1,1 @@
+"0","plot(factor(Auto$mpg01), Auto$year, ylab = ""Manufacture year"")"

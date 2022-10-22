@@ -1,0 +1,113 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+## Exercise 13, p. 193 (a), (b), (c), (d) only: logistic regression and prediction using the Weekly data set.
+
+```{r}
+library(ISLR)
+weekly = read.csv("/Volumes/work/MTH522/data/Weekly.csv")
+head(weekly)
+```
+
+```{r}
+head(weekly)
+```
+
+```{r}
+dim(weekly)
+```
+
+### 13(a).Produce some numerical and graphical summaries of the Weekly data. Do there appear to be any patterns?
+
+```{r}
+summary(weekly)
+```
+
+```{r}
+pairs(Weekly)
+```
+**Observations:**
+1. There isn't much analysis we can do here, only thing we can say is that, `volume` of shares increased throught the period i.e. from 1990 to 2010.
+
+
+```{r}
+attach(weekly)
+plot(Volume,)
+```
+**Observations:**
+1. Looking at scatterplot of volume over time, we can see that the number of shares traded each week has grown exponentially over the years from 1990 to 2010 in the data.
+
+
+```{r}
+cor(Weekly[-9])
+```
+
+**Observations:**
+1. We can see that each of the lag variables is only correlated very weakly with today's returns.
+2.The sole substantial value of 0.842, between Volume and Year, aligns with the strong correlation we saw in the above scatterplot.
+
+
+### 13(b).Use the full data set to perform a logistic regression with Direction as the response and the five lag variables plus Volume as predictors. Use the summary function to print the results. Do any of the predictors appear to be statistically significant? If so, which ones?
+
+```{r}
+model_glm = glm(Direction ~ . - Year - Today, data = Weekly, family = "binomial")
+summary(model_glm)
+```
+**Observations:**
+1. From the above summary, `Lag2` has the smallest p-value and is the only one close to zero with a value of `0.0296`, providing evidence at the 5% significance level to reject the null hypothesis that it is not related to the response `Direction`.
+2. `Lag1` is somewhat near the border of being significant at the 10% level, with a p-value of `0.1181`.
+3. None of the above predictors are statistically significant.
+
+
+### 13(c).Compute the confusion matrix and overall fraction of correct predictions. Explain what the confusion matrix is telling you about the types of mistakes made by logistic regression.
+```{r}
+model_prob = predict(model_glm,type = "response")
+model_predict <- rep("Down",1089)
+model_predict[model_prob > .5] = "Up"
+table(model_predict, Direction)
+```
+
+```{r}
+mean(model_predict == Direction)
+```
+**Observations:**
+1. Our model correctly predicted 54 down weeks out of a total of 484 actual down weeks and 557 up days out of a total of 605 actual up weeks. This means that the model correctly predicted the direction for 611 weeks out of the 1089 for an accuracy of 0.5612.
+2. The true positive rate is the number of correctly predicted positives divided by the overall number of positives. So for this model ->  557/605 ≈ 0.92.
+3. The false positive rate is the number of incorrectly predicted positives (weeks incorrectly predicted to be up weeks = 430 weeks) divided by the overall number of negatives (the total number of down weeks = 484 weeks) -- is comparably high at  430/484≈0.888.
+4. The positive predictive value, which is the number of true positives divided by the total number of predicted positives, so 557/987 ≈ 0.564.
+5. The negative predictive value, which is the number of true negatives divided by the total number of predicted negatives; so 54/102 ≈ 0.529.
+
+
+### 13(d).Now fit the logistic regression model using a training data period from 1990 to 2008, with Lag2 as the only predictor. Compute the confusion matrix and the overall fraction of correct predictions for the held out data (that is, the data from 2009 and 2010).
+
+```{r}
+train <- (Year < 2009)
+weekly.2009 <- weekly[!train, ]
+Direction.2009 <- Direction[!train]
+```
+
+```{r}
+model_fit = glm(Direction ~ Lag2, data = Weekly, subset = train, family = "binomial")
+summary(model_fit)
+```
+
+```{r}
+model_prob_2 <- predict(model_fit, weekly.2009, type = "response")
+model_predict_2 <- rep("Down", 104)
+model_predict_2[model_prob_2 > .5] <- "Up"
+table(model_predict_2, Direction.2009)
+```
+
+
+```{r}
+mean(model_predict_2 == Direction.2009)
+```
+```{r}
+mean(model_predict_2 != Direction.2009)
+```
+**Observations:**
+1. After fitting a logistic regression model on the data with only `Lag2` as the predictor, the model correctly predicted the market direction for 62.5% of the weeks in the held-out data (the data from 2009 and 2010).
+2. Continuing with the convention from Part 3 that an up week is a positive result, the true positive rate is  56/61≈0.918, and false positive rate is 34/43 ≈ 0.791. The positive predictive value is 56/90 ≈ 0.622 and the negative predictive value is  9/14 ≈ 0.643.
+

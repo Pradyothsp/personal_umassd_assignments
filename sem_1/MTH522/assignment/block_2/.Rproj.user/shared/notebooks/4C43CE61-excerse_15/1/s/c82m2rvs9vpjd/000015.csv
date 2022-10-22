@@ -1,0 +1,2 @@
+"0","boston = read.csv(""/Volumes/work/MTH522/data/Boston.csv"")"
+"0","head(boston)"

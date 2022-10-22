@@ -1,0 +1,5 @@
+"0","require(caTools)"
+"0","set.seed(123)"
+"0","Boston_split = sample.split(Boston1$crim01, SplitRatio = 0.80)"
+"0","Boston_train = subset(Boston1, Boston_split==TRUE) "
+"0","Boston_test = subset(Boston1, Boston_split==FALSE)"

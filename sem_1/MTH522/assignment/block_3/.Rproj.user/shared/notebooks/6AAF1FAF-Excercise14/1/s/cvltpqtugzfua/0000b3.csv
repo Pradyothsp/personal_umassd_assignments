@@ -1,0 +1,1 @@
+"0","plot(Auto$acceleration, Auto$mpg01, xlab = ""Time to reach 60mpg (seconds)"")"

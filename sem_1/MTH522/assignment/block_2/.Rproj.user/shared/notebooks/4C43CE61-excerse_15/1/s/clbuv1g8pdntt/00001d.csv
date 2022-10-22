@@ -1,0 +1,4 @@
+"0","plot(df_coefs$simple_coefs, df_coefs$multi_coefs, col = ""red"", pch =20,"
+"0","     xlab=""Simple Regression Coefficients"", "
+"0","     ylab=""Multiple Regression Coefficients"", "
+"0","     main = ""Relationship between Multiple regression \n and univariate regression coefficients"")"

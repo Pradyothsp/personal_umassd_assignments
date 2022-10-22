@@ -1,0 +1,3 @@
+"0","library(ISLR)"
+"0","weekly = read.csv(""/Volumes/work/MTH522/data/Weekly.csv"")"
+"0","head(weekly)"

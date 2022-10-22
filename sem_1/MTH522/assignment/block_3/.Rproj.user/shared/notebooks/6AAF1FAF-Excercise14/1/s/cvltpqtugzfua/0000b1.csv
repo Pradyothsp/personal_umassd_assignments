@@ -1,0 +1,1 @@
+"0","plot(Auto$weight, Auto$mpg01, xlab = ""Weight (pounds)"")"

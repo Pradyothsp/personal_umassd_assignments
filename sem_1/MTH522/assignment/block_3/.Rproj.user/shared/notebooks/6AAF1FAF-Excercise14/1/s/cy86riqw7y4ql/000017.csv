@@ -1,0 +1,4 @@
+"0","Auto1_glm = glm(mpg01 ~ cylinders+displacement+horsepower+weight, data=train1, family=binomial)"
+"2","Error in model.frame.default(formula = mpg01 ~ cylinders + displacement +  : 
+  variable lengths differ (found for 'cylinders')
+"

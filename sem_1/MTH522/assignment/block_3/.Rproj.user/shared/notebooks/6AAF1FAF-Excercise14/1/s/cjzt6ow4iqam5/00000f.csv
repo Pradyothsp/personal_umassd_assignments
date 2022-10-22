@@ -1,0 +1,3 @@
+"0","mean(Auto1_pred != test1$mpg01)"
+"2","Error in mean(Auto1_pred != test1$mpg01) : object 'Auto1_pred' not found
+"
