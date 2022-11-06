@@ -278,9 +278,13 @@ onhire/media/
 .ipython/
 .env
 .envs/*
+*.xml
+
+test/*
+
+.ipynb_checkpoints/
 
 onhire/jet/*
 onhire/dashboard/static/jet/*
 .envs/.local/.django
 runserver.sh
-
