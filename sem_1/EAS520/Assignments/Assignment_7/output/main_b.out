@@ -1,0 +1,16 @@
+Time taken: 0.24896693229675293 for operation 'sum' and result is 3999104 for core: 2
+Time taken: 0.2624959945678711 for operation 'sum' and result is 3999104 for core: 4
+Time taken: 0.7247700691223145 for operation 'sum' and result is 3999104 for core: 8
+
+Time taken: 0.2504160404205322 for operation 'average' and result is 4.99888 for core: 2
+Time taken: 0.2604641914367676 for operation 'average' and result is 4.99888 for core: 4
+Time taken: 0.4577958583831787 for operation 'average' and result is 4.99888 for core: 8
+
+Time taken: 0.2459709644317627 for operation 'min' and result is 1 for core: 2
+Time taken: 0.29377102851867676 for operation 'min' and result is 1 for core: 4
+Time taken: 0.5766572952270508 for operation 'min' and result is 1 for core: 8
+
+Time taken: 0.25893616676330566 for operation 'max' and result is 9 for core: 2
+Time taken: 0.2934539318084717 for operation 'max' and result is 9 for core: 4
+Time taken: 0.5169582366943359 for operation 'max' and result is 9 for core: 8
+

@@ -1,16 +1,14 @@
-import random
-
 from mpi4py import MPI
 
 from utils import get_temp_dict, save_json, read_json
 
-M = 1
+M = 20 # Number of iterations
 
 comm = MPI.COMM_WORLD
 rank = comm.rank
 
-OBJS_1 = read_json(file_name='objs_1_init.json')
-OBJS_2 = read_json(file_name='objs_2_init.json')
+OBJS_1 = read_json(file_name='output/objs_1_init.json')
+OBJS_2 = read_json(file_name='output/objs_2_init.json')
 
 for i in range(M):
     comm.barrier()
@@ -32,7 +30,7 @@ for i in range(M):
         comm.barrier()
         data_rec = comm.recv(source=1, tag=110)
 
-        print(f"Data received in rank 0 is {data_rec}")
+        # print(f"Data received in rank 0 is {data_rec}")
 
         if data_rec.get(5):
             temp_dict[5] = temp_dict[5].union(data_rec.get(5))
@@ -42,14 +40,12 @@ for i in range(M):
 
         OBJS_1 = temp_dict.copy()
 
-        print(f"OBJ_1: {OBJS_1}, after iteration {i + 1}")
+        # print(f"OBJ_1: {OBJS_1}, after iteration {i + 1}")
 
         if i + 1 == M:
-            save_json(file_name='obj_pos_1.json', data=OBJS_1)
+            save_json(file_name='output/obj_pos_1.json', data=OBJS_1)
 
     if rank == 1:
-        # comm.barrier()
-        temp_dict = dict()  # For updating the OBJS_2 after each iteration
 
         temp_dict, OBJS_2 = get_temp_dict(OBJS_2)  # For updating the OBJS_2 after each iteration
 
@@ -66,7 +62,7 @@ for i in range(M):
         comm.barrier()
         data_rec = comm.recv(source=0, tag=101)
 
-        print(f"Data received in rank 1 is {data_rec}")
+        # print(f"Data received in rank 1 is {data_rec}")
 
         if data_rec.get(0):
             temp_dict[10] = temp_dict[10].union(data_rec.get(0))
@@ -76,10 +72,10 @@ for i in range(M):
 
         OBJS_2 = temp_dict.copy()
 
-        print(f"OBJ_2: {OBJS_2}, after iteration {i + 1}")
+        # print(f"OBJ_2: {OBJS_2}, after iteration {i + 1}")
 
         if i + 1 == M:
-            save_json(file_name='obj_pos_2.json', data=OBJS_2)
+            save_json(file_name='output/obj_pos_2.json', data=OBJS_2)
 
 # FINAL_POS = OBJS_1.update(OBJS_2)
 # print(f"Final positions is: {FINAL_POS}")

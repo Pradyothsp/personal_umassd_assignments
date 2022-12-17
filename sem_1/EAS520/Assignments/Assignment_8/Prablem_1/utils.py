@@ -11,7 +11,7 @@ def toss():
 
 def get_temp_dict(objs: dict[int: set]) -> dict[int: set]:
     temp_dict = dict.fromkeys(objs, set())
-    print(f"Initial objs: {objs}")
+    # print(f"Initial objs: {objs}")
 
     for k, v in objs.items():
         if len(v) == 0:
@@ -33,7 +33,7 @@ def get_temp_dict(objs: dict[int: set]) -> dict[int: set]:
                     temp_dict[k - 1] = set(val)
 
         objs[k] = set()
-    print(f"Final Temp: {temp_dict}")
+    # print(f"Final Temp: {temp_dict}")
 
     return temp_dict, objs
 
@@ -55,3 +55,15 @@ def read_json(file_name: str) -> dict[int: set]:
     data = {int(k): set(v) for k, v in data.items()}
 
     return data
+
+
+def get_xy(list_: list) -> tuple[list, list]:
+    x = list()
+    y = list()
+
+    for i in list_:
+        for j in i[1]:
+            x.append(i[0])
+            y.append(j)
+
+    return x, y
