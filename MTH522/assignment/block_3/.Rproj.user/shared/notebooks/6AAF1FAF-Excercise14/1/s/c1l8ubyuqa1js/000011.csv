@@ -1,4 +1,0 @@
-"0","pairs(Auto1[,1:9], main=""Scatterplot matrix which includes all of the variables in Auto2 dataset"")"
-"2","Error in pairs.default(Auto1[, 1:9], main = ""Scatterplot matrix which includes all of the variables in Auto2 dataset"") : 
-  non-numeric argument to 'pairs'
-"

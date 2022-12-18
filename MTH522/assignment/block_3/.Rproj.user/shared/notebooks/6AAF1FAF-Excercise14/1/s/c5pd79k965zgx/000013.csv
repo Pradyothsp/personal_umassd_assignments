@@ -1,5 +1,0 @@
-"0","Auto$origin[Auto$origin == 1] = ""Origin 1"""
-"0","Auto$origin[Auto$origin == 2] = ""Origin 2"""
-"0","Auto$origin[Auto$origin == 3] = ""Origin 3"""
-"0","Auto$origin = as.factor(Auto$origin)"
-"0","head(Auto)"

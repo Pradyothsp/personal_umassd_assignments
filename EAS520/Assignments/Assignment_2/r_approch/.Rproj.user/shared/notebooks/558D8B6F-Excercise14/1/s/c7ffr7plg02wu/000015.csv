@@ -1,2 +1,0 @@
-"0","mpg01 <- ifelse( mpg > median(mpg), yes = 1, no = 0)"
-"0","Auto <- data.frame(Auto, mpg01)"

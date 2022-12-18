@@ -1,8 +1,0 @@
-"0","start_time <- Sys.time()"
-"0","result = foreach(1:8) %do% time_consuming_func()"
-"0","t1 <- Sys.time() - start_time"
-"0","sprintf(""t1: %f sec"", t1)"
-"1","[1]"
-"1"," ""t1: 40.035069 sec"""
-"1","
-"

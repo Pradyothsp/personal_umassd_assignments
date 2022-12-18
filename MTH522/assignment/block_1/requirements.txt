@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-ipython
-ipykernel
-jupyter
-geopandas

@@ -1,7 +1,0 @@
-"0","require(caTools)"
-"2","Warning: The working directory was changed to /Users/pradyothsp inside a notebook chunk. The working directory will be reset when the chunk is finished running. Use the knitr root.dir option in the setup chunk to change the working directory for notebook chunks."
-"0","set.seed(123)"
-"0","split_data = sample.split(Auto1$mpg, SplitRatio = 0.70)"
-"0","train1 = subset(Auto1, split_data==TRUE) "
-"0","test1 = subset(Auto1, split_data==FALSE)"
-"0",""

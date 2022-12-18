@@ -1,2 +1,0 @@
-"0","par(mfrow = c(3, 2))"
-"0","plot(Auto$cylinders, Auto$mpg01, xlab = ""Number of engine cylinders"")"

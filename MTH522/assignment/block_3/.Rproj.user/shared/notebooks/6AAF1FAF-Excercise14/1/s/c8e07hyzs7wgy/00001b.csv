@@ -1,1 +1,0 @@
-"0","plot(Auto$origin, Auto$mpg, xlab = ""Origin"", ylab = ""MPG"")"

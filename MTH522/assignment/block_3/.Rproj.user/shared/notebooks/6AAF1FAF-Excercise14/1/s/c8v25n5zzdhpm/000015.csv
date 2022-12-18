@@ -1,4 +1,0 @@
-"0","mpg01 = rep(0, dim(Auto)[1])"
-"0","mpg01[Auto$mpg > median(Auto$mpg)] = 1"
-"0","Auto = data.frame(Auto, mpg01)"
-"0","head(Auto)"

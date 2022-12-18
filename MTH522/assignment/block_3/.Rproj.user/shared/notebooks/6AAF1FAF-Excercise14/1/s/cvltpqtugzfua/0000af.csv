@@ -1,1 +1,0 @@
-"0","plot(Auto$horsepower, Auto$mpg01, xlab = ""Horsepower"")"
