@@ -1,0 +1,9577 @@
+[{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f8a"
+  },
+  "zip": "10001",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f8d"
+  },
+  "zip": "10005",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f89"
+  },
+  "zip": "06390",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f8b"
+  },
+  "zip": "10003",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f8c"
+  },
+  "zip": "10004",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa6"
+  },
+  "zip": "10023",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f96"
+  },
+  "zip": "10007",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc8"
+  },
+  "zip": "10459",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f98"
+  },
+  "zip": "10014",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fbe"
+  },
+  "zip": "10303",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc1"
+  },
+  "zip": "10452",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc9"
+  },
+  "zip": "10458",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fca"
+  },
+  "zip": "10460",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f95"
+  },
+  "zip": "10011",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f9a"
+  },
+  "zip": "10017",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa3"
+  },
+  "zip": "10022",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa5"
+  },
+  "zip": "10025",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa8"
+  },
+  "zip": "10028",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa9"
+  },
+  "zip": "10031",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f9b"
+  },
+  "zip": "10018",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa0"
+  },
+  "zip": "10021",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72faf"
+  },
+  "zip": "10036",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb3"
+  },
+  "zip": "10039",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc3"
+  },
+  "zip": "10456",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f92"
+  },
+  "zip": "10010",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f94"
+  },
+  "zip": "10012",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f9c"
+  },
+  "zip": "10019",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f8f"
+  },
+  "zip": "10006",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f93"
+  },
+  "zip": "10002",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa2"
+  },
+  "zip": "10024",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa4"
+  },
+  "zip": "10027",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fac"
+  },
+  "zip": "10033",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb8"
+  },
+  "zip": "10301",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc7"
+  },
+  "zip": "10309",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa1"
+  },
+  "zip": "10016",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fad"
+  },
+  "zip": "10029",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc0"
+  },
+  "zip": "10454",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc2"
+  },
+  "zip": "10451",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fab"
+  },
+  "zip": "10034",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f9f"
+  },
+  "zip": "10020",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fba"
+  },
+  "zip": "10304",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fbc"
+  },
+  "zip": "10307",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb5"
+  },
+  "zip": "10280",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fbf"
+  },
+  "zip": "10314",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb2"
+  },
+  "zip": "10038",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f90"
+  },
+  "zip": "10009",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb4"
+  },
+  "zip": "10040",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc5"
+  },
+  "zip": "10455",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fcb"
+  },
+  "zip": "10461",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb7"
+  },
+  "zip": "10044",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc4"
+  },
+  "zip": "10457",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fc6"
+  },
+  "zip": "10306",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fce"
+  },
+  "zip": "10463",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fbd"
+  },
+  "zip": "10308",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72faa"
+  },
+  "zip": "10032",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fae"
+  },
+  "zip": "10035",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb0"
+  },
+  "zip": "10037",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fbb"
+  },
+  "zip": "10305",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb1"
+  },
+  "zip": "10030",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb6"
+  },
+  "zip": "10128",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fcd"
+  },
+  "zip": "10310",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72f97"
+  },
+  "zip": "10013",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fa7"
+  },
+  "zip": "10026",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fb9"
+  },
+  "zip": "10302",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fcc"
+  },
+  "zip": "10462",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd4"
+  },
+  "zip": "10466",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fde"
+  },
+  "zip": "10502",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff0"
+  },
+  "zip": "10536",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff1"
+  },
+  "zip": "10533",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73008"
+  },
+  "zip": "10590",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7300b"
+  },
+  "zip": "10566",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73018"
+  },
+  "zip": "10707",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73023"
+  },
+  "zip": "10913",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7302a"
+  },
+  "zip": "10801",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73030"
+  },
+  "zip": "10926",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7303c"
+  },
+  "zip": "10960",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe0"
+  },
+  "zip": "10507",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe3"
+  },
+  "zip": "10510",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe6"
+  },
+  "zip": "10518",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff7"
+  },
+  "zip": "10550",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fff"
+  },
+  "zip": "10560",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73000"
+  },
+  "zip": "10538",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73007"
+  },
+  "zip": "10576",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73034"
+  },
+  "zip": "10928",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7303a"
+  },
+  "zip": "10958",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73040"
+  },
+  "zip": "10968",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73047"
+  },
+  "zip": "10985",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd5"
+  },
+  "zip": "10468",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd9"
+  },
+  "zip": "10473",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff2"
+  },
+  "zip": "10543",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ffc"
+  },
+  "zip": "10530",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73001"
+  },
+  "zip": "10573",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72feb"
+  },
+  "zip": "10520",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff3"
+  },
+  "zip": "10546",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff4"
+  },
+  "zip": "10547",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73009"
+  },
+  "zip": "10591",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73017"
+  },
+  "zip": "10708",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7301a"
+  },
+  "zip": "10709",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7301c"
+  },
+  "zip": "10803",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7301e"
+  },
+  "zip": "10706",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73036"
+  },
+  "zip": "10954",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7303e"
+  },
+  "zip": "10964",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73043"
+  },
+  "zip": "10974",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7304a"
+  },
+  "zip": "10987",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7304c"
+  },
+  "zip": "10989",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd6"
+  },
+  "zip": "10469",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fda"
+  },
+  "zip": "10474",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fdc"
+  },
+  "zip": "10475",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff9"
+  },
+  "zip": "10537",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ffe"
+  },
+  "zip": "10532",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73024"
+  },
+  "zip": "10901",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73027"
+  },
+  "zip": "10918",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7302e"
+  },
+  "zip": "10920",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73032"
+  },
+  "zip": "10927",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73037"
+  },
+  "zip": "10940",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7304b"
+  },
+  "zip": "10980",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff8"
+  },
+  "zip": "10552",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd8"
+  },
+  "zip": "10470",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ffd"
+  },
+  "zip": "10562",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7300e"
+  },
+  "zip": "10580",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73019"
+  },
+  "zip": "10605",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7301b"
+  },
+  "zip": "10710",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73029"
+  },
+  "zip": "10921",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7302d"
+  },
+  "zip": "10916",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73035"
+  },
+  "zip": "10931",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7303b"
+  },
+  "zip": "10956",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73044"
+  },
+  "zip": "10970",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fed"
+  },
+  "zip": "10523",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73006"
+  },
+  "zip": "10589",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73011"
+  },
+  "zip": "10601",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7302b"
+  },
+  "zip": "10923",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd7"
+  },
+  "zip": "10471",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd0"
+  },
+  "zip": "10453",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fdf"
+  },
+  "zip": "10506",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73013"
+  },
+  "zip": "10604",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73016"
+  },
+  "zip": "10607",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73033"
+  },
+  "zip": "10930",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd1"
+  },
+  "zip": "10464",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe9"
+  },
+  "zip": "10511",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fec"
+  },
+  "zip": "10527",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73045"
+  },
+  "zip": "10975",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7304d"
+  },
+  "zip": "10990",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff6"
+  },
+  "zip": "10549",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7300d"
+  },
+  "zip": "10579",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73012"
+  },
+  "zip": "10598",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73026"
+  },
+  "zip": "10917",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73041"
+  },
+  "zip": "10969",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73042"
+  },
+  "zip": "10963",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd2"
+  },
+  "zip": "10465",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ff5"
+  },
+  "zip": "10535",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7300f"
+  },
+  "zip": "10597",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73015"
+  },
+  "zip": "10606",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73022"
+  },
+  "zip": "10911",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73028"
+  },
+  "zip": "10919",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7304e"
+  },
+  "zip": "10993",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fdd"
+  },
+  "zip": "10501",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe5"
+  },
+  "zip": "10516",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe7"
+  },
+  "zip": "10514",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fea"
+  },
+  "zip": "10524",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fef"
+  },
+  "zip": "10541",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ffa"
+  },
+  "zip": "10553",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7301f"
+  },
+  "zip": "10805",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73038"
+  },
+  "zip": "10952",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73046"
+  },
+  "zip": "10976",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72ffb"
+  },
+  "zip": "10548",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73005"
+  },
+  "zip": "10588",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7300a"
+  },
+  "zip": "10594",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73021"
+  },
+  "zip": "10703",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7303d"
+  },
+  "zip": "10962",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73049"
+  },
+  "zip": "10986",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fcf"
+  },
+  "zip": "10312",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73003"
+  },
+  "zip": "10578",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fdb"
+  },
+  "zip": "10472",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe4"
+  },
+  "zip": "10512",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe8"
+  },
+  "zip": "10522",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fee"
+  },
+  "zip": "10528",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73002"
+  },
+  "zip": "10577",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7300c"
+  },
+  "zip": "10570",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73014"
+  },
+  "zip": "10603",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73025"
+  },
+  "zip": "10701",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73031"
+  },
+  "zip": "10925",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7301d"
+  },
+  "zip": "10804",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73020"
+  },
+  "zip": "10704",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7302f"
+  },
+  "zip": "10705",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7303f"
+  },
+  "zip": "10965",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fd3"
+  },
+  "zip": "10467",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe1"
+  },
+  "zip": "10504",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca72fe2"
+  },
+  "zip": "10509",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73004"
+  },
+  "zip": "10583",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73010"
+  },
+  "zip": "10595",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7302c"
+  },
+  "zip": "10924",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73039"
+  },
+  "zip": "10950",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73048"
+  },
+  "zip": "10973",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73063"
+  },
+  "zip": "11103",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73083"
+  },
+  "zip": "11229",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73084"
+  },
+  "zip": "11231",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7308d"
+  },
+  "zip": "11358",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73098"
+  },
+  "zip": "11363",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730bd"
+  },
+  "zip": "11435",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d3"
+  },
+  "zip": "11561",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d9"
+  },
+  "zip": "11575",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ea"
+  },
+  "zip": "11705",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f5"
+  },
+  "zip": "11719",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73105"
+  },
+  "zip": "11743",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73051"
+  },
+  "zip": "10996",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73099"
+  },
+  "zip": "11368",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730bb"
+  },
+  "zip": "11417",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d6"
+  },
+  "zip": "11570",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730fd"
+  },
+  "zip": "11731",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73107"
+  },
+  "zip": "11747",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73056"
+  },
+  "zip": "10984",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73077"
+  },
+  "zip": "11221",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7307d"
+  },
+  "zip": "11215",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7307e"
+  },
+  "zip": "11220",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73080"
+  },
+  "zip": "11225",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7308b"
+  },
+  "zip": "11238",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7308e"
+  },
+  "zip": "11359",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a8"
+  },
+  "zip": "11378",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ad"
+  },
+  "zip": "11414",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b2"
+  },
+  "zip": "11428",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b4"
+  },
+  "zip": "11418",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d2"
+  },
+  "zip": "11552",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f4"
+  },
+  "zip": "11715",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73050"
+  },
+  "zip": "10994",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73069"
+  },
+  "zip": "11207",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73074"
+  },
+  "zip": "11214",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73097"
+  },
+  "zip": "11367",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b5"
+  },
+  "zip": "11430",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ba"
+  },
+  "zip": "11420",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c1"
+  },
+  "zip": "11507",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d7"
+  },
+  "zip": "11566",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e4"
+  },
+  "zip": "11696",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ff"
+  },
+  "zip": "11733",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73100"
+  },
+  "zip": "11735",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73052"
+  },
+  "zip": "10998",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73054"
+  },
+  "zip": "11003",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7305b"
+  },
+  "zip": "11024",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73076"
+  },
+  "zip": "11216",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7307a"
+  },
+  "zip": "11218",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a0"
+  },
+  "zip": "11372",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730aa"
+  },
+  "zip": "11413",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730bc"
+  },
+  "zip": "11421",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ca"
+  },
+  "zip": "11548",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730cd"
+  },
+  "zip": "11545",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d0"
+  },
+  "zip": "11559",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d8"
+  },
+  "zip": "11563",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e3"
+  },
+  "zip": "11581",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e7"
+  },
+  "zip": "11702",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e8"
+  },
+  "zip": "11703",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73103"
+  },
+  "zip": "11720",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73057"
+  },
+  "zip": "11004",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7305e"
+  },
+  "zip": "11042",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73059"
+  },
+  "zip": "11023",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7305a"
+  },
+  "zip": "11020",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7306b"
+  },
+  "zip": "11102",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7307f"
+  },
+  "zip": "11226",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7309c"
+  },
+  "zip": "11356",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a2"
+  },
+  "zip": "11374",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730af"
+  },
+  "zip": "11423",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b0"
+  },
+  "zip": "11426",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c2"
+  },
+  "zip": "11510",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c4"
+  },
+  "zip": "11518",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d4"
+  },
+  "zip": "11565",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f6"
+  },
+  "zip": "11724",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73102"
+  },
+  "zip": "11740",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7310a"
+  },
+  "zip": "11754",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73062"
+  },
+  "zip": "11101",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73066"
+  },
+  "zip": "11205",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73078"
+  },
+  "zip": "11222",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73087"
+  },
+  "zip": "11235",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7308c"
+  },
+  "zip": "11239",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ac"
+  },
+  "zip": "11415",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b8"
+  },
+  "zip": "11434",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730dd"
+  },
+  "zip": "11580",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e1"
+  },
+  "zip": "11590",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e5"
+  },
+  "zip": "11572",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730eb"
+  },
+  "zip": "11706",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ef"
+  },
+  "zip": "11579",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f0"
+  },
+  "zip": "11710",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73108"
+  },
+  "zip": "11751",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7310e"
+  },
+  "zip": "11757",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73088"
+  },
+  "zip": "11234",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73095"
+  },
+  "zip": "11365",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a4"
+  },
+  "zip": "11385",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ae"
+  },
+  "zip": "11422",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b6"
+  },
+  "zip": "11429",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730cc"
+  },
+  "zip": "11553",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e6"
+  },
+  "zip": "11697",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f9"
+  },
+  "zip": "11726",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730fb"
+  },
+  "zip": "11729",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73106"
+  },
+  "zip": "11746",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7310c"
+  },
+  "zip": "11755",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73053"
+  },
+  "zip": "11001",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7306c"
+  },
+  "zip": "11210",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7309b"
+  },
+  "zip": "11355",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a3"
+  },
+  "zip": "11379",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a7"
+  },
+  "zip": "11411",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b1"
+  },
+  "zip": "11427",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c9"
+  },
+  "zip": "11550",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ed"
+  },
+  "zip": "11709",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f1"
+  },
+  "zip": "11713",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730fc"
+  },
+  "zip": "11725",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73104"
+  },
+  "zip": "11741",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73064"
+  },
+  "zip": "11204",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73065"
+  },
+  "zip": "11105",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7307b"
+  },
+  "zip": "11223",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73096"
+  },
+  "zip": "11366",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b3"
+  },
+  "zip": "11432",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730dc"
+  },
+  "zip": "11598",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730df"
+  },
+  "zip": "11694",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e9"
+  },
+  "zip": "11704",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ec"
+  },
+  "zip": "11692",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ee"
+  },
+  "zip": "11701",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7304f"
+  },
+  "zip": "10992",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7305d"
+  },
+  "zip": "11040",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7305f"
+  },
+  "zip": "10983",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73061"
+  },
+  "zip": "11050",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7306a"
+  },
+  "zip": "11209",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7309d"
+  },
+  "zip": "11369",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a5"
+  },
+  "zip": "11371",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a6"
+  },
+  "zip": "11375",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730bf"
+  },
+  "zip": "11501",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c8"
+  },
+  "zip": "11520",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d5"
+  },
+  "zip": "11568",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730de"
+  },
+  "zip": "11691",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f2"
+  },
+  "zip": "11716",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f3"
+  },
+  "zip": "11714",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73109"
+  },
+  "zip": "11752",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73058"
+  },
+  "zip": "11021",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73068"
+  },
+  "zip": "11206",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7306e"
+  },
+  "zip": "11213",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73070"
+  },
+  "zip": "11208",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73073"
+  },
+  "zip": "11106",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7308f"
+  },
+  "zip": "11357",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73091"
+  },
+  "zip": "11360",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73094"
+  },
+  "zip": "11354",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7309a"
+  },
+  "zip": "11251",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7309e"
+  },
+  "zip": "11377",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a1"
+  },
+  "zip": "11373",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c3"
+  },
+  "zip": "11516",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c5"
+  },
+  "zip": "11514",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730cf"
+  },
+  "zip": "11554",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730d1"
+  },
+  "zip": "11560",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e2"
+  },
+  "zip": "11693",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f8"
+  },
+  "zip": "11717",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73060"
+  },
+  "zip": "10977",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73055"
+  },
+  "zip": "11010",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7306d"
+  },
+  "zip": "11211",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73085"
+  },
+  "zip": "11232",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73092"
+  },
+  "zip": "11362",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ab"
+  },
+  "zip": "11416",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730da"
+  },
+  "zip": "11577",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730db"
+  },
+  "zip": "11596",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730fa"
+  },
+  "zip": "11727",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73101"
+  },
+  "zip": "11738",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7305c"
+  },
+  "zip": "11030",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7306f"
+  },
+  "zip": "11104",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73072"
+  },
+  "zip": "11212",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73075"
+  },
+  "zip": "11217",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73081"
+  },
+  "zip": "11228",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73086"
+  },
+  "zip": "11233",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7309f"
+  },
+  "zip": "11370",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730a9"
+  },
+  "zip": "11412",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b9"
+  },
+  "zip": "11419",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c0"
+  },
+  "zip": "11509",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730f7"
+  },
+  "zip": "11722",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7310d"
+  },
+  "zip": "11730",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73067"
+  },
+  "zip": "11203",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73071"
+  },
+  "zip": "11201",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73079"
+  },
+  "zip": "11224",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73082"
+  },
+  "zip": "11230",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73090"
+  },
+  "zip": "11361",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730be"
+  },
+  "zip": "11436",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730ce"
+  },
+  "zip": "11558",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730e0"
+  },
+  "zip": "11576",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7307c"
+  },
+  "zip": "11219",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73089"
+  },
+  "zip": "11236",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7308a"
+  },
+  "zip": "11237",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73093"
+  },
+  "zip": "11364",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730b7"
+  },
+  "zip": "11433",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c6"
+  },
+  "zip": "11530",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730c7"
+  },
+  "zip": "11542",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730cb"
+  },
+  "zip": "11557",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca730fe"
+  },
+  "zip": "11732",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7310b"
+  },
+  "zip": "11753",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7316d"
+  },
+  "zip": "12052",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73174"
+  },
+  "zip": "12058",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7317b"
+  },
+  "zip": "12010",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73183"
+  },
+  "zip": "12075",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73189"
+  },
+  "zip": "12084",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7319c"
+  },
+  "zip": "12083",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7319e"
+  },
+  "zip": "12131",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c4"
+  },
+  "zip": "12184",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73137"
+  },
+  "zip": "11901",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73139"
+  },
+  "zip": "11935",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7313b"
+  },
+  "zip": "11942",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73143"
+  },
+  "zip": "11952",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73155"
+  },
+  "zip": "11978",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73187"
+  },
+  "zip": "12078",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731af"
+  },
+  "zip": "12154",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b5"
+  },
+  "zip": "12160",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c6"
+  },
+  "zip": "12187",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c9"
+  },
+  "zip": "12186",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7311e"
+  },
+  "zip": "11780",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7313d"
+  },
+  "zip": "11940",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7315b"
+  },
+  "zip": "12023",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73164"
+  },
+  "zip": "12035",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73177"
+  },
+  "zip": "12061",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73181"
+  },
+  "zip": "12067",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a1"
+  },
+  "zip": "12135",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a4"
+  },
+  "zip": "12137",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b1"
+  },
+  "zip": "12156",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b9"
+  },
+  "zip": "12167",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73111"
+  },
+  "zip": "11762",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73114"
+  },
+  "zip": "11766",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7311b"
+  },
+  "zip": "11742",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73145"
+  },
+  "zip": "11953",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73149"
+  },
+  "zip": "11949",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73158"
+  },
+  "zip": "12019",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7315d"
+  },
+  "zip": "12024",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73176"
+  },
+  "zip": "12059",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73179"
+  },
+  "zip": "12062",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7317e"
+  },
+  "zip": "12066",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7318d"
+  },
+  "zip": "12106",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73117"
+  },
+  "zip": "11771",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73121"
+  },
+  "zip": "11786",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73130"
+  },
+  "zip": "11796",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73167"
+  },
+  "zip": "12041",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73170"
+  },
+  "zip": "12055",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73186"
+  },
+  "zip": "12072",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a5"
+  },
+  "zip": "12139",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ad"
+  },
+  "zip": "12151",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b4"
+  },
+  "zip": "12158",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731cc"
+  },
+  "zip": "12194",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73119"
+  },
+  "zip": "11769",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73125"
+  },
+  "zip": "11721",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73134"
+  },
+  "zip": "11803",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7314a"
+  },
+  "zip": "11957",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73150"
+  },
+  "zip": "11971",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73154"
+  },
+  "zip": "11977",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73157"
+  },
+  "zip": "12017",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7315f"
+  },
+  "zip": "12028",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7316b"
+  },
+  "zip": "12047",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73172"
+  },
+  "zip": "12009",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73185"
+  },
+  "zip": "12071",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a8"
+  },
+  "zip": "12138",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b6"
+  },
+  "zip": "12159",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731bb"
+  },
+  "zip": "12169",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731be"
+  },
+  "zip": "12175",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73112"
+  },
+  "zip": "11763",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73118"
+  },
+  "zip": "11772",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73126"
+  },
+  "zip": "11768",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73131"
+  },
+  "zip": "11794",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7313a"
+  },
+  "zip": "11937",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73147"
+  },
+  "zip": "11955",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7314c"
+  },
+  "zip": "11964",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73159"
+  },
+  "zip": "12020",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73182"
+  },
+  "zip": "12074",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73188"
+  },
+  "zip": "12077",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731bf"
+  },
+  "zip": "12182",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c2"
+  },
+  "zip": "12176",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73113"
+  },
+  "zip": "11765",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7311c"
+  },
+  "zip": "11777",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7311f"
+  },
+  "zip": "11779",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73123"
+  },
+  "zip": "11784",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73124"
+  },
+  "zip": "11787",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73127"
+  },
+  "zip": "11718",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7314e"
+  },
+  "zip": "11967",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7314f"
+  },
+  "zip": "11968",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7315e"
+  },
+  "zip": "12027",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73163"
+  },
+  "zip": "12033",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73166"
+  },
+  "zip": "12037",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7316a"
+  },
+  "zip": "12046",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73178"
+  },
+  "zip": "12060",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73184"
+  },
+  "zip": "12076",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a9"
+  },
+  "zip": "12143",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b3"
+  },
+  "zip": "12157",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c5"
+  },
+  "zip": "12185",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7312d"
+  },
+  "zip": "11791",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7313c"
+  },
+  "zip": "11939",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7313f"
+  },
+  "zip": "11946",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73161"
+  },
+  "zip": "12031",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7317a"
+  },
+  "zip": "12064",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7317c"
+  },
+  "zip": "12065",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7318b"
+  },
+  "zip": "12086",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73198"
+  },
+  "zip": "12121",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73199"
+  },
+  "zip": "12117",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7319d"
+  },
+  "zip": "12130",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b2"
+  },
+  "zip": "12149",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ba"
+  },
+  "zip": "12168",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7312e"
+  },
+  "zip": "11795",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7310f"
+  },
+  "zip": "11758",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73116"
+  },
+  "zip": "11764",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73136"
+  },
+  "zip": "11933",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73153"
+  },
+  "zip": "11980",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7315c"
+  },
+  "zip": "12025",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73168"
+  },
+  "zip": "12042",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73175"
+  },
+  "zip": "12057",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73194"
+  },
+  "zip": "12118",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7319b"
+  },
+  "zip": "12123",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a2"
+  },
+  "zip": "12094",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a3"
+  },
+  "zip": "12136",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a6"
+  },
+  "zip": "12140",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ac"
+  },
+  "zip": "12150",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7313e"
+  },
+  "zip": "11944",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73148"
+  },
+  "zip": "11961",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73151"
+  },
+  "zip": "11976",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73165"
+  },
+  "zip": "12036",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73171"
+  },
+  "zip": "12015",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73173"
+  },
+  "zip": "12056",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73193"
+  },
+  "zip": "12116",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7319f"
+  },
+  "zip": "12134",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a7"
+  },
+  "zip": "12144",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ab"
+  },
+  "zip": "12148",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ae"
+  },
+  "zip": "12153",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b7"
+  },
+  "zip": "12166",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731bd"
+  },
+  "zip": "12173",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c8"
+  },
+  "zip": "12189",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ca"
+  },
+  "zip": "12190",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ce"
+  },
+  "zip": "12197",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73115"
+  },
+  "zip": "11767",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7311a"
+  },
+  "zip": "11776",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73138"
+  },
+  "zip": "11934",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73152"
+  },
+  "zip": "12007",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7315a"
+  },
+  "zip": "12022",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7317d"
+  },
+  "zip": "12008",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73195"
+  },
+  "zip": "12120",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731a0"
+  },
+  "zip": "12125",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73122"
+  },
+  "zip": "11783",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7312a"
+  },
+  "zip": "11788",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7314b"
+  },
+  "zip": "11963",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73190"
+  },
+  "zip": "12093",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b8"
+  },
+  "zip": "12165",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c7"
+  },
+  "zip": "12188",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7312b"
+  },
+  "zip": "11793",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7312c"
+  },
+  "zip": "11792",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7312f"
+  },
+  "zip": "11797",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73132"
+  },
+  "zip": "11798",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73135"
+  },
+  "zip": "11804",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73140"
+  },
+  "zip": "11948",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73169"
+  },
+  "zip": "12043",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7316f"
+  },
+  "zip": "12054",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73180"
+  },
+  "zip": "12070",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7318a"
+  },
+  "zip": "12087",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7318c"
+  },
+  "zip": "12090",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7318e"
+  },
+  "zip": "12108",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73191"
+  },
+  "zip": "12113",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731aa"
+  },
+  "zip": "12147",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731bc"
+  },
+  "zip": "12170",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c3"
+  },
+  "zip": "12183",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731cd"
+  },
+  "zip": "12196",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73110"
+  },
+  "zip": "11756",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73129"
+  },
+  "zip": "11789",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73141"
+  },
+  "zip": "11950",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73142"
+  },
+  "zip": "11951",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7314d"
+  },
+  "zip": "11965",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73156"
+  },
+  "zip": "12018",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7316c"
+  },
+  "zip": "12051",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73196"
+  },
+  "zip": "12092",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73197"
+  },
+  "zip": "12095",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c1"
+  },
+  "zip": "12180",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7311d"
+  },
+  "zip": "11778",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73120"
+  },
+  "zip": "11782",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73128"
+  },
+  "zip": "11790",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73133"
+  },
+  "zip": "11801",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73144"
+  },
+  "zip": "11941",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73146"
+  },
+  "zip": "11954",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73160"
+  },
+  "zip": "12029",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73162"
+  },
+  "zip": "12032",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7316e"
+  },
+  "zip": "12053",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7317f"
+  },
+  "zip": "12068",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7318f"
+  },
+  "zip": "12110",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73192"
+  },
+  "zip": "12115",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7319a"
+  },
+  "zip": "12122",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731b0"
+  },
+  "zip": "12155",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731c0"
+  },
+  "zip": "12164",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731cb"
+  },
+  "zip": "12193",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731cf"
+  },
+  "zip": "12198",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d5"
+  },
+  "zip": "12207",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731eb"
+  },
+  "zip": "12416",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731fa"
+  },
+  "zip": "12411",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7320e"
+  },
+  "zip": "12464",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73213"
+  },
+  "zip": "12470",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73217"
+  },
+  "zip": "12477",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7321e"
+  },
+  "zip": "12480",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7323d"
+  },
+  "zip": "12538",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7323f"
+  },
+  "zip": "12543",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73248"
+  },
+  "zip": "12567",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731db"
+  },
+  "zip": "12202",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e0"
+  },
+  "zip": "12304",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e6"
+  },
+  "zip": "12413",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ec"
+  },
+  "zip": "12419",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7320a"
+  },
+  "zip": "12460",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7322c"
+  },
+  "zip": "12520",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73243"
+  },
+  "zip": "12553",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731de"
+  },
+  "zip": "12210",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ee"
+  },
+  "zip": "12418",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f8"
+  },
+  "zip": "12410",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731fc"
+  },
+  "zip": "12442",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73200"
+  },
+  "zip": "12440",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7321d"
+  },
+  "zip": "12485",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73233"
+  },
+  "zip": "12525",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73246"
+  },
+  "zip": "12564",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7324c"
+  },
+  "zip": "12572",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e8"
+  },
+  "zip": "12414",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731fe"
+  },
+  "zip": "12439",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73208"
+  },
+  "zip": "12456",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73232"
+  },
+  "zip": "12523",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73241"
+  },
+  "zip": "12546",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73245"
+  },
+  "zip": "12542",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7324d"
+  },
+  "zip": "12577",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d0"
+  },
+  "zip": "12204",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731df"
+  },
+  "zip": "12211",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731fb"
+  },
+  "zip": "12435",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73204"
+  },
+  "zip": "12454",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73207"
+  },
+  "zip": "12455",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7321a"
+  },
+  "zip": "12482",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73231"
+  },
+  "zip": "12524",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7323a"
+  },
+  "zip": "12495",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73242"
+  },
+  "zip": "12561",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d2"
+  },
+  "zip": "12205",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731dc"
+  },
+  "zip": "12308",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e7"
+  },
+  "zip": "12406",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ef"
+  },
+  "zip": "12422",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73205"
+  },
+  "zip": "12451",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7320b"
+  },
+  "zip": "12461",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73211"
+  },
+  "zip": "12468",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7321b"
+  },
+  "zip": "12484",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d3"
+  },
+  "zip": "12192",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d6"
+  },
+  "zip": "12208",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73203"
+  },
+  "zip": "12449",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7322e"
+  },
+  "zip": "12521",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73238"
+  },
+  "zip": "12533",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d7"
+  },
+  "zip": "12209",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f9"
+  },
+  "zip": "12430",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73201"
+  },
+  "zip": "12446",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73214"
+  },
+  "zip": "12469",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73216"
+  },
+  "zip": "12473",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73219"
+  },
+  "zip": "12472",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73229"
+  },
+  "zip": "12516",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73235"
+  },
+  "zip": "12528",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7323e"
+  },
+  "zip": "12540",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73244"
+  },
+  "zip": "12563",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ea"
+  },
+  "zip": "12407",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ed"
+  },
+  "zip": "12421",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731fd"
+  },
+  "zip": "12443",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73206"
+  },
+  "zip": "12450",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73209"
+  },
+  "zip": "12457",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7320d"
+  },
+  "zip": "12463",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7320f"
+  },
+  "zip": "12458",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7321c"
+  },
+  "zip": "12486",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73221"
+  },
+  "zip": "12498",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7322d"
+  },
+  "zip": "12518",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7322f"
+  },
+  "zip": "12522",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73230"
+  },
+  "zip": "12494",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7323c"
+  },
+  "zip": "12487",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731ff"
+  },
+  "zip": "12444",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e3"
+  },
+  "zip": "12404",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73222"
+  },
+  "zip": "12501",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73228"
+  },
+  "zip": "12515",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73237"
+  },
+  "zip": "12531",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73249"
+  },
+  "zip": "12569",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e5"
+  },
+  "zip": "12412",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f0"
+  },
+  "zip": "12423",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f2"
+  },
+  "zip": "12427",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f6"
+  },
+  "zip": "12434",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7320c"
+  },
+  "zip": "12462",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7321f"
+  },
+  "zip": "12496",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73226"
+  },
+  "zip": "12513",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73239"
+  },
+  "zip": "12534",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e1"
+  },
+  "zip": "12305",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f1"
+  },
+  "zip": "12424",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f3"
+  },
+  "zip": "12428",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f5"
+  },
+  "zip": "12433",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f7"
+  },
+  "zip": "12409",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73224"
+  },
+  "zip": "12503",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7322b"
+  },
+  "zip": "12514",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7324a"
+  },
+  "zip": "12570",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7324e"
+  },
+  "zip": "12575",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731da"
+  },
+  "zip": "12307",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d1"
+  },
+  "zip": "12203",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73225"
+  },
+  "zip": "12508",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7323b"
+  },
+  "zip": "12492",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73240"
+  },
+  "zip": "12545",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d9"
+  },
+  "zip": "12306",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731dd"
+  },
+  "zip": "12303",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e2"
+  },
+  "zip": "12309",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e9"
+  },
+  "zip": "12405",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73215"
+  },
+  "zip": "12474",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73220"
+  },
+  "zip": "12491",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7322a"
+  },
+  "zip": "12517",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73234"
+  },
+  "zip": "12526",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73247"
+  },
+  "zip": "12566",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7324b"
+  },
+  "zip": "12571",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d4"
+  },
+  "zip": "12206",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73202"
+  },
+  "zip": "12448",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73210"
+  },
+  "zip": "12465",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73212"
+  },
+  "zip": "12466",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73227"
+  },
+  "zip": "12507",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731d8"
+  },
+  "zip": "12302",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731e4"
+  },
+  "zip": "12401",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca731f4"
+  },
+  "zip": "12431",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73218"
+  },
+  "zip": "12481",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73223"
+  },
+  "zip": "12502",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73236"
+  },
+  "zip": "12529",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73253"
+  },
+  "zip": "12582",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73257"
+  },
+  "zip": "12586",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7325c"
+  },
+  "zip": "12548",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73286"
+  },
+  "zip": "12770",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ac"
+  },
+  "zip": "12828",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d1"
+  },
+  "zip": "12914",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732da"
+  },
+  "zip": "12918",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f3"
+  },
+  "zip": "12957",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73267"
+  },
+  "zip": "12734",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7327d"
+  },
+  "zip": "12762",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7326e"
+  },
+  "zip": "12742",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7328a"
+  },
+  "zip": "12771",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73294"
+  },
+  "zip": "12804",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732aa"
+  },
+  "zip": "12835",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ab"
+  },
+  "zip": "12836",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c2"
+  },
+  "zip": "12851",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7327e"
+  },
+  "zip": "12594",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73299"
+  },
+  "zip": "12789",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b6"
+  },
+  "zip": "12826",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c5"
+  },
+  "zip": "12870",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d8"
+  },
+  "zip": "12887",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ee"
+  },
+  "zip": "12953",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7330a"
+  },
+  "zip": "12983",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7330c"
+  },
+  "zip": "12987",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7325f"
+  },
+  "zip": "12720",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7325b"
+  },
+  "zip": "12547",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73262"
+  },
+  "zip": "12725",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73266"
+  },
+  "zip": "12733",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7327f"
+  },
+  "zip": "12701",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73291"
+  },
+  "zip": "12801",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a9"
+  },
+  "zip": "12824",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c6"
+  },
+  "zip": "12855",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e1"
+  },
+  "zip": "12923",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e8"
+  },
+  "zip": "12946",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f0"
+  },
+  "zip": "12956",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f5"
+  },
+  "zip": "12960",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f8"
+  },
+  "zip": "12964",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732fa"
+  },
+  "zip": "12965",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73269"
+  },
+  "zip": "12736",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7327a"
+  },
+  "zip": "12758",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73297"
+  },
+  "zip": "12808",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b3"
+  },
+  "zip": "12845",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c0"
+  },
+  "zip": "12863",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ca"
+  },
+  "zip": "12878",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ef"
+  },
+  "zip": "12950",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f6"
+  },
+  "zip": "12959",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73250"
+  },
+  "zip": "12550",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73256"
+  },
+  "zip": "12590",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73254"
+  },
+  "zip": "12583",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7326d"
+  },
+  "zip": "12740",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73255"
+  },
+  "zip": "12585",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73288"
+  },
+  "zip": "12776",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73268"
+  },
+  "zip": "12737",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7329e"
+  },
+  "zip": "12786",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7326c"
+  },
+  "zip": "12741",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a0"
+  },
+  "zip": "12821",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73277"
+  },
+  "zip": "12752",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a4"
+  },
+  "zip": "12827",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73281"
+  },
+  "zip": "12764",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b0"
+  },
+  "zip": "12842",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732bc"
+  },
+  "zip": "12859",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c1"
+  },
+  "zip": "12850",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732bd"
+  },
+  "zip": "12854",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c7"
+  },
+  "zip": "12872",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c4"
+  },
+  "zip": "12871",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732cd"
+  },
+  "zip": "12901",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e5"
+  },
+  "zip": "12935",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d3"
+  },
+  "zip": "12916",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ec"
+  },
+  "zip": "12952",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732fc"
+  },
+  "zip": "12938",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73300"
+  },
+  "zip": "12969",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732de"
+  },
+  "zip": "12926",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7330d"
+  },
+  "zip": "12989",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e7"
+  },
+  "zip": "12942",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f2"
+  },
+  "zip": "12944",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73303"
+  },
+  "zip": "12970",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73309"
+  },
+  "zip": "12985",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73258"
+  },
+  "zip": "12589",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7325a"
+  },
+  "zip": "12549",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73265"
+  },
+  "zip": "12732",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7326f"
+  },
+  "zip": "12743",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73282"
+  },
+  "zip": "12763",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7328e"
+  },
+  "zip": "12783",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b2"
+  },
+  "zip": "12843",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b7"
+  },
+  "zip": "12837",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732be"
+  },
+  "zip": "12860",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c9"
+  },
+  "zip": "12873",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732cf"
+  },
+  "zip": "12911",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732dd"
+  },
+  "zip": "12930",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e4"
+  },
+  "zip": "12920",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7330e"
+  },
+  "zip": "12992",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7326b"
+  },
+  "zip": "12739",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73275"
+  },
+  "zip": "12750",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73279"
+  },
+  "zip": "12754",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73293"
+  },
+  "zip": "12787",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73298"
+  },
+  "zip": "12810",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a6"
+  },
+  "zip": "12832",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732cc"
+  },
+  "zip": "12883",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d7"
+  },
+  "zip": "12886",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d9"
+  },
+  "zip": "12919",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732df"
+  },
+  "zip": "12932",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732eb"
+  },
+  "zip": "12945",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732fe"
+  },
+  "zip": "12967",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7325d"
+  },
+  "zip": "12601",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73260"
+  },
+  "zip": "12721",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7325e"
+  },
+  "zip": "12603",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73263"
+  },
+  "zip": "12727",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73280"
+  },
+  "zip": "12753",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73287"
+  },
+  "zip": "12775",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73289"
+  },
+  "zip": "12777",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a2"
+  },
+  "zip": "12822",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a5"
+  },
+  "zip": "12791",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a8"
+  },
+  "zip": "12834",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732af"
+  },
+  "zip": "12839",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b8"
+  },
+  "zip": "12849",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ba"
+  },
+  "zip": "12858",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ce"
+  },
+  "zip": "12910",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e9"
+  },
+  "zip": "12937",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73261"
+  },
+  "zip": "12723",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73272"
+  },
+  "zip": "12747",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7327c"
+  },
+  "zip": "12760",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7328b"
+  },
+  "zip": "12779",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7329b"
+  },
+  "zip": "12812",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a1"
+  },
+  "zip": "12819",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ad"
+  },
+  "zip": "12831",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d2"
+  },
+  "zip": "12913",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732db"
+  },
+  "zip": "12921",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e3"
+  },
+  "zip": "12924",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7328d"
+  },
+  "zip": "12790",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732cb"
+  },
+  "zip": "12853",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d4"
+  },
+  "zip": "12917",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d6"
+  },
+  "zip": "12874",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f1"
+  },
+  "zip": "12955",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f7"
+  },
+  "zip": "12961",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7324f"
+  },
+  "zip": "12580",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73252"
+  },
+  "zip": "12578",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73264"
+  },
+  "zip": "12729",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73271"
+  },
+  "zip": "12745",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73278"
+  },
+  "zip": "12719",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7327b"
+  },
+  "zip": "12759",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7329c"
+  },
+  "zip": "12815",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a3"
+  },
+  "zip": "12823",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732a7"
+  },
+  "zip": "12833",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ae"
+  },
+  "zip": "12838",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f9"
+  },
+  "zip": "12962",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73301"
+  },
+  "zip": "12972",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73305"
+  },
+  "zip": "12973",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73306"
+  },
+  "zip": "12979",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73307"
+  },
+  "zip": "12980",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73251"
+  },
+  "zip": "12581",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7326a"
+  },
+  "zip": "12738",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73270"
+  },
+  "zip": "12746",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73273"
+  },
+  "zip": "12726",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73276"
+  },
+  "zip": "12751",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73285"
+  },
+  "zip": "12768",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7329d"
+  },
+  "zip": "12816",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b5"
+  },
+  "zip": "12847",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d0"
+  },
+  "zip": "12912",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732dc"
+  },
+  "zip": "12928",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ed"
+  },
+  "zip": "12943",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7330b"
+  },
+  "zip": "12981",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73283"
+  },
+  "zip": "12766",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73259"
+  },
+  "zip": "12592",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7328f"
+  },
+  "zip": "12782",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73295"
+  },
+  "zip": "12803",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b4"
+  },
+  "zip": "12846",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b9"
+  },
+  "zip": "12852",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732bf"
+  },
+  "zip": "12865",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c3"
+  },
+  "zip": "12866",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732d5"
+  },
+  "zip": "12885",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e0"
+  },
+  "zip": "12934",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e6"
+  },
+  "zip": "12936",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ea"
+  },
+  "zip": "12949",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732f4"
+  },
+  "zip": "12958",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732fb"
+  },
+  "zip": "12966",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732ff"
+  },
+  "zip": "12968",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73302"
+  },
+  "zip": "12974",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73304"
+  },
+  "zip": "12978",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73274"
+  },
+  "zip": "12748",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73284"
+  },
+  "zip": "12765",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7328c"
+  },
+  "zip": "12780",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73290"
+  },
+  "zip": "12788",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73292"
+  },
+  "zip": "12792",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73296"
+  },
+  "zip": "12809",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7329a"
+  },
+  "zip": "12814",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7329f"
+  },
+  "zip": "12817",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732b1"
+  },
+  "zip": "12844",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732bb"
+  },
+  "zip": "12857",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732c8"
+  },
+  "zip": "12861",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732e2"
+  },
+  "zip": "12922",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca732fd"
+  },
+  "zip": "12941",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73308"
+  },
+  "zip": "12986",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73322"
+  },
+  "zip": "13041",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7331b"
+  },
+  "zip": "12996",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73332"
+  },
+  "zip": "13068",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73339"
+  },
+  "zip": "13081",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73345"
+  },
+  "zip": "13112",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7333d"
+  },
+  "zip": "13082",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7334d"
+  },
+  "zip": "13135",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7331d"
+  },
+  "zip": "13039",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73311"
+  },
+  "zip": "13030",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73313"
+  },
+  "zip": "13026",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73320"
+  },
+  "zip": "12997",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73344"
+  },
+  "zip": "13114",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73333"
+  },
+  "zip": "13071",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73348"
+  },
+  "zip": "13122",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73323"
+  },
+  "zip": "13045",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7331c"
+  },
+  "zip": "13028",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7334b"
+  },
+  "zip": "13120",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7332a"
+  },
+  "zip": "13057",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7332d"
+  },
+  "zip": "13072",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73330"
+  },
+  "zip": "13074",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73342"
+  },
+  "zip": "13090",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73343"
+  },
+  "zip": "13104",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73315"
+  },
+  "zip": "13032",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7331e"
+  },
+  "zip": "13040",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73331"
+  },
+  "zip": "13055",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73312"
+  },
+  "zip": "13029",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73310"
+  },
+  "zip": "12994",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73316"
+  },
+  "zip": "13033",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73319"
+  },
+  "zip": "13034",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7331f"
+  },
+  "zip": "13042",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73334"
+  },
+  "zip": "13060",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73340"
+  },
+  "zip": "13101",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7332b"
+  },
+  "zip": "13063",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73347"
+  },
+  "zip": "13118",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7334c"
+  },
+  "zip": "13131",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7334e"
+  },
+  "zip": "13092",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73328"
+  },
+  "zip": "13053",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73335"
+  },
+  "zip": "13076",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73336"
+  },
+  "zip": "13077",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7334a"
+  },
+  "zip": "13126",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73317"
+  },
+  "zip": "13035",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73318"
+  },
+  "zip": "13036",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73314"
+  },
+  "zip": "13031",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7330f"
+  },
+  "zip": "12993",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7331a"
+  },
+  "zip": "13037",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73321"
+  },
+  "zip": "13044",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73324"
+  },
+  "zip": "13050",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73325"
+  },
+  "zip": "13052",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73337"
+  },
+  "zip": "13078",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73338"
+  },
+  "zip": "13080",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7333f"
+  },
+  "zip": "13088",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7332c"
+  },
+  "zip": "13061",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7332e"
+  },
+  "zip": "13073",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7333c"
+  },
+  "zip": "13083",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73346"
+  },
+  "zip": "13116",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73327"
+  },
+  "zip": "13027",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73326"
+  },
+  "zip": "13021",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73329"
+  },
+  "zip": "13054",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7332f"
+  },
+  "zip": "13066",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7333b"
+  },
+  "zip": "13085",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73341"
+  },
+  "zip": "13103",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7333a"
+  },
+  "zip": "13084",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7333e"
+  },
+  "zip": "13069",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73349"
+  },
+  "zip": "13124",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73358"
+  },
+  "zip": "13152",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73373"
+  },
+  "zip": "13301",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73371"
+  },
+  "zip": "13224",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7335c"
+  },
+  "zip": "13140",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7335f"
+  },
+  "zip": "13159",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73364"
+  },
+  "zip": "13202",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7336b"
+  },
+  "zip": "13210",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73376"
+  },
+  "zip": "13303",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73361"
+  },
+  "zip": "13165",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73351"
+  },
+  "zip": "13143",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7334f"
+  },
+  "zip": "13110",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73355"
+  },
+  "zip": "13147",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73357"
+  },
+  "zip": "13132",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73367"
+  },
+  "zip": "13156",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7336c"
+  },
+  "zip": "13136",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73352"
+  },
+  "zip": "13142",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7336f"
+  },
+  "zip": "13215",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73353"
+  },
+  "zip": "13144",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73356"
+  },
+  "zip": "13148",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73354"
+  },
+  "zip": "13145",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7335e"
+  },
+  "zip": "13160",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73369"
+  },
+  "zip": "13207",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7335a"
+  },
+  "zip": "13108",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73359"
+  },
+  "zip": "13146",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7335d"
+  },
+  "zip": "13158",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73360"
+  },
+  "zip": "13164",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73368"
+  },
+  "zip": "13205",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73375"
+  },
+  "zip": "13302",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7336d"
+  },
+  "zip": "13212",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73370"
+  },
+  "zip": "13208",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73374"
+  },
+  "zip": "13219",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7336e"
+  },
+  "zip": "13214",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73350"
+  },
+  "zip": "13141",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7335b"
+  },
+  "zip": "13155",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73363"
+  },
+  "zip": "13167",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73372"
+  },
+  "zip": "13209",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73365"
+  },
+  "zip": "13203",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73366"
+  },
+  "zip": "13111",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7336a"
+  },
+  "zip": "13211",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73362"
+  },
+  "zip": "13166",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73386"
+  },
+  "zip": "13329",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73379"
+  },
+  "zip": "13304",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a3"
+  },
+  "zip": "13363",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73382"
+  },
+  "zip": "13318",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7338a"
+  },
+  "zip": "13334",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b2"
+  },
+  "zip": "13424",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73383"
+  },
+  "zip": "13319",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7337b"
+  },
+  "zip": "13206",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73384"
+  },
+  "zip": "13320",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7337c"
+  },
+  "zip": "13310",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7337d"
+  },
+  "zip": "13204",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7338c"
+  },
+  "zip": "13332",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a6"
+  },
+  "zip": "13407",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a7"
+  },
+  "zip": "13408",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a9"
+  },
+  "zip": "13411",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73398"
+  },
+  "zip": "13343",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a8"
+  },
+  "zip": "13401",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b6"
+  },
+  "zip": "13433",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73397"
+  },
+  "zip": "13337",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73381"
+  },
+  "zip": "13317",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7339b"
+  },
+  "zip": "13348",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b0"
+  },
+  "zip": "13420",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73378"
+  },
+  "zip": "13308",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73385"
+  },
+  "zip": "13324",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7337a"
+  },
+  "zip": "13309",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73394"
+  },
+  "zip": "13342",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73395"
+  },
+  "zip": "13340",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7339a"
+  },
+  "zip": "13353",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ab"
+  },
+  "zip": "13413",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73396"
+  },
+  "zip": "13346",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b1"
+  },
+  "zip": "13421",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73387"
+  },
+  "zip": "13326",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7337e"
+  },
+  "zip": "13314",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7338d"
+  },
+  "zip": "13327",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7338e"
+  },
+  "zip": "13333",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7339d"
+  },
+  "zip": "13357",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7339e"
+  },
+  "zip": "13350",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ad"
+  },
+  "zip": "13416",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73388"
+  },
+  "zip": "13328",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7338f"
+  },
+  "zip": "13325",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a4"
+  },
+  "zip": "13368",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73380"
+  },
+  "zip": "13315",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73390"
+  },
+  "zip": "13322",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7339c"
+  },
+  "zip": "13354",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a1"
+  },
+  "zip": "13403",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73391"
+  },
+  "zip": "13335",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73399"
+  },
+  "zip": "13345",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73392"
+  },
+  "zip": "13339",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7339f"
+  },
+  "zip": "13355",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a5"
+  },
+  "zip": "13406",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733af"
+  },
+  "zip": "13418",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b3"
+  },
+  "zip": "13425",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ae"
+  },
+  "zip": "13417",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b4"
+  },
+  "zip": "13402",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b7"
+  },
+  "zip": "13431",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7337f"
+  },
+  "zip": "13316",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73389"
+  },
+  "zip": "13331",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7338b"
+  },
+  "zip": "13323",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73393"
+  },
+  "zip": "13338",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a0"
+  },
+  "zip": "13361",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733a2"
+  },
+  "zip": "13365",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733aa"
+  },
+  "zip": "13360",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ac"
+  },
+  "zip": "13415",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b5"
+  },
+  "zip": "13428",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d8"
+  },
+  "zip": "13461",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d9"
+  },
+  "zip": "13492",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73414"
+  },
+  "zip": "13681",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73415"
+  },
+  "zip": "13679",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73416"
+  },
+  "zip": "13682",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7342c"
+  },
+  "zip": "13734",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73432"
+  },
+  "zip": "13756",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7343e"
+  },
+  "zip": "13757",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73440"
+  },
+  "zip": "13776",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73452"
+  },
+  "zip": "13830",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7345a"
+  },
+  "zip": "13810",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73464"
+  },
+  "zip": "13850",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73469"
+  },
+  "zip": "13865",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7346e"
+  },
+  "zip": "14001",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7348c"
+  },
+  "zip": "14051",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73490"
+  },
+  "zip": "14060",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a4"
+  },
+  "zip": "14081",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a7"
+  },
+  "zip": "14105",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734de"
+  },
+  "zip": "14411",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e4"
+  },
+  "zip": "14415",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e6"
+  },
+  "zip": "14418",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e1"
+  },
+  "zip": "13495",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73404"
+  },
+  "zip": "13661",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73425"
+  },
+  "zip": "13733",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73431"
+  },
+  "zip": "13751",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73433"
+  },
+  "zip": "13754",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73442"
+  },
+  "zip": "13796",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7344b"
+  },
+  "zip": "13815",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73458"
+  },
+  "zip": "13825",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7345e"
+  },
+  "zip": "13843",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7349f"
+  },
+  "zip": "14075",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b5"
+  },
+  "zip": "14132",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e3"
+  },
+  "zip": "14305",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ef"
+  },
+  "zip": "14428",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f3"
+  },
+  "zip": "14462",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733bb"
+  },
+  "zip": "13438",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733da"
+  },
+  "zip": "13502",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f6"
+  },
+  "zip": "13638",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733fa"
+  },
+  "zip": "13652",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733fe"
+  },
+  "zip": "13656",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7340c"
+  },
+  "zip": "13670",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73411"
+  },
+  "zip": "13675",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73422"
+  },
+  "zip": "13731",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73435"
+  },
+  "zip": "13760",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7343a"
+  },
+  "zip": "13786",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73454"
+  },
+  "zip": "13834",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73459"
+  },
+  "zip": "13808",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73470"
+  },
+  "zip": "14009",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73472"
+  },
+  "zip": "14012",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7349c"
+  },
+  "zip": "14085",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a8"
+  },
+  "zip": "14068",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e1"
+  },
+  "zip": "14225",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e5"
+  },
+  "zip": "14416",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f2"
+  },
+  "zip": "14456",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733be"
+  },
+  "zip": "13454",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c1"
+  },
+  "zip": "13450",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c6"
+  },
+  "zip": "13471",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d6"
+  },
+  "zip": "13466",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733eb"
+  },
+  "zip": "13618",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f7"
+  },
+  "zip": "13619",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73402"
+  },
+  "zip": "13613",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7340e"
+  },
+  "zip": "13667",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7340f"
+  },
+  "zip": "13673",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7347d"
+  },
+  "zip": "14034",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ae"
+  },
+  "zip": "14080",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734af"
+  },
+  "zip": "14072",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b2"
+  },
+  "zip": "14134",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b6"
+  },
+  "zip": "14143",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734cf"
+  },
+  "zip": "14215",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d0"
+  },
+  "zip": "14216",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d5"
+  },
+  "zip": "14226",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c5"
+  },
+  "zip": "13468",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733bc"
+  },
+  "zip": "13439",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f3"
+  },
+  "zip": "13634",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f4"
+  },
+  "zip": "13636",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733fd"
+  },
+  "zip": "13655",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ff"
+  },
+  "zip": "13659",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73423"
+  },
+  "zip": "13697",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7346f"
+  },
+  "zip": "14004",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7348d"
+  },
+  "zip": "14058",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a9"
+  },
+  "zip": "14108",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b8"
+  },
+  "zip": "14145",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734bf"
+  },
+  "zip": "14129",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c8"
+  },
+  "zip": "14207",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f1"
+  },
+  "zip": "14454",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d4"
+  },
+  "zip": "13488",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d7"
+  },
+  "zip": "13491",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e0"
+  },
+  "zip": "13501",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e6"
+  },
+  "zip": "13608",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f1"
+  },
+  "zip": "13630",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73403"
+  },
+  "zip": "13660",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73409"
+  },
+  "zip": "13668",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73424"
+  },
+  "zip": "13732",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73436"
+  },
+  "zip": "13778",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73447"
+  },
+  "zip": "13803",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73449"
+  },
+  "zip": "13813",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7344c"
+  },
+  "zip": "13804",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73450"
+  },
+  "zip": "13811",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73455"
+  },
+  "zip": "13833",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7345f"
+  },
+  "zip": "13842",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7346c"
+  },
+  "zip": "13901",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7347f"
+  },
+  "zip": "13905",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7349a"
+  },
+  "zip": "14069",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734be"
+  },
+  "zip": "14201",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c3"
+  },
+  "zip": "14171",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c7"
+  },
+  "zip": "14208",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ca"
+  },
+  "zip": "14210",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734cc"
+  },
+  "zip": "14212",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ce"
+  },
+  "zip": "14214",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e0"
+  },
+  "zip": "14414",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734eb"
+  },
+  "zip": "14437",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f0"
+  },
+  "zip": "14450",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f6"
+  },
+  "zip": "14420",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c4"
+  },
+  "zip": "13464",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733cf"
+  },
+  "zip": "13482",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d1"
+  },
+  "zip": "13485",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d3"
+  },
+  "zip": "13486",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f5"
+  },
+  "zip": "13637",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73407"
+  },
+  "zip": "13666",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73412"
+  },
+  "zip": "13676",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73419"
+  },
+  "zip": "13690",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73420"
+  },
+  "zip": "13698",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73430"
+  },
+  "zip": "13753",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73434"
+  },
+  "zip": "13755",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7343f"
+  },
+  "zip": "13775",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73446"
+  },
+  "zip": "13795",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7344a"
+  },
+  "zip": "13809",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7345d"
+  },
+  "zip": "13844",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7346d"
+  },
+  "zip": "13904",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73475"
+  },
+  "zip": "14024",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73479"
+  },
+  "zip": "14028",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73481"
+  },
+  "zip": "14006",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73487"
+  },
+  "zip": "14052",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7348b"
+  },
+  "zip": "14057",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73491"
+  },
+  "zip": "14062",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73496"
+  },
+  "zip": "14048",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a2"
+  },
+  "zip": "14094",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734da"
+  },
+  "zip": "14303",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f7"
+  },
+  "zip": "14445",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733bd"
+  },
+  "zip": "13440",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c7"
+  },
+  "zip": "13473",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733cc"
+  },
+  "zip": "13478",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d2"
+  },
+  "zip": "13477",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733de"
+  },
+  "zip": "13603",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e3"
+  },
+  "zip": "13605",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733fc"
+  },
+  "zip": "13648",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7341b"
+  },
+  "zip": "13691",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73437"
+  },
+  "zip": "13780",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73441"
+  },
+  "zip": "13777",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73448"
+  },
+  "zip": "13806",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73457"
+  },
+  "zip": "13807",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7346b"
+  },
+  "zip": "13903",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73482"
+  },
+  "zip": "14037",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73492"
+  },
+  "zip": "14063",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e7"
+  },
+  "zip": "14427",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733cb"
+  },
+  "zip": "13470",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733cd"
+  },
+  "zip": "13469",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733db"
+  },
+  "zip": "13601",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e2"
+  },
+  "zip": "13606",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73401"
+  },
+  "zip": "13658",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73443"
+  },
+  "zip": "13797",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73444"
+  },
+  "zip": "13801",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7344d"
+  },
+  "zip": "13812",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7344f"
+  },
+  "zip": "13826",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73465"
+  },
+  "zip": "13861",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7347e"
+  },
+  "zip": "14036",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7348f"
+  },
+  "zip": "14047",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7349e"
+  },
+  "zip": "14086",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734cb"
+  },
+  "zip": "14213",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734dc"
+  },
+  "zip": "14304",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734df"
+  },
+  "zip": "14219",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ea"
+  },
+  "zip": "14433",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f4"
+  },
+  "zip": "14464",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733bf"
+  },
+  "zip": "13437",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733dc"
+  },
+  "zip": "13493",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733df"
+  },
+  "zip": "13494",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e9"
+  },
+  "zip": "13616",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ea"
+  },
+  "zip": "13617",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f0"
+  },
+  "zip": "13626",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f8"
+  },
+  "zip": "13646",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733fb"
+  },
+  "zip": "13654",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73427"
+  },
+  "zip": "13739",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7342b"
+  },
+  "zip": "13748",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7342d"
+  },
+  "zip": "13750",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7342e"
+  },
+  "zip": "13744",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7344e"
+  },
+  "zip": "13820",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7345b"
+  },
+  "zip": "13841",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73460"
+  },
+  "zip": "13838",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73462"
+  },
+  "zip": "13856",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73473"
+  },
+  "zip": "14013",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73474"
+  },
+  "zip": "14020",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73488"
+  },
+  "zip": "14054",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73494"
+  },
+  "zip": "14066",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73499"
+  },
+  "zip": "14070",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b0"
+  },
+  "zip": "14102",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b1"
+  },
+  "zip": "14127",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734bb"
+  },
+  "zip": "14139",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d2"
+  },
+  "zip": "14217",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d7"
+  },
+  "zip": "14223",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734dd"
+  },
+  "zip": "14410",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ba"
+  },
+  "zip": "13409",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ca"
+  },
+  "zip": "13475",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e5"
+  },
+  "zip": "13607",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ec"
+  },
+  "zip": "13621",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ed"
+  },
+  "zip": "13622",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ee"
+  },
+  "zip": "13624",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f9"
+  },
+  "zip": "13650",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73400"
+  },
+  "zip": "13642",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7340a"
+  },
+  "zip": "13620",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73456"
+  },
+  "zip": "13835",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73471"
+  },
+  "zip": "14011",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73477"
+  },
+  "zip": "14025",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73484"
+  },
+  "zip": "14003",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73489"
+  },
+  "zip": "14055",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73498"
+  },
+  "zip": "14043",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a6"
+  },
+  "zip": "14103",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ab"
+  },
+  "zip": "14113",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b3"
+  },
+  "zip": "14141",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b4"
+  },
+  "zip": "14136",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b8"
+  },
+  "zip": "13436",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733b9"
+  },
+  "zip": "13367",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c9"
+  },
+  "zip": "13456",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d5"
+  },
+  "zip": "13489",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7340d"
+  },
+  "zip": "13614",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7341a"
+  },
+  "zip": "13687",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7341e"
+  },
+  "zip": "13695",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7341f"
+  },
+  "zip": "13696",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7343b"
+  },
+  "zip": "13787",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7343d"
+  },
+  "zip": "13788",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73451"
+  },
+  "zip": "13827",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73467"
+  },
+  "zip": "13864",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7347b"
+  },
+  "zip": "14030",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a0"
+  },
+  "zip": "14091",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734bc"
+  },
+  "zip": "14172",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d1"
+  },
+  "zip": "14218",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d8"
+  },
+  "zip": "14227",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733d0"
+  },
+  "zip": "13483",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c0"
+  },
+  "zip": "13452",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73408"
+  },
+  "zip": "13662",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7341c"
+  },
+  "zip": "13693",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73426"
+  },
+  "zip": "13736",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7342f"
+  },
+  "zip": "13752",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7348a"
+  },
+  "zip": "14040",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73495"
+  },
+  "zip": "14067",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7349d"
+  },
+  "zip": "14082",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b9"
+  },
+  "zip": "14167",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c0"
+  },
+  "zip": "14202",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c5"
+  },
+  "zip": "14138",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c6"
+  },
+  "zip": "14209",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d4"
+  },
+  "zip": "14221",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e8"
+  },
+  "zip": "14423",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f5"
+  },
+  "zip": "14466",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c2"
+  },
+  "zip": "13459",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e8"
+  },
+  "zip": "13612",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733f2"
+  },
+  "zip": "13633",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73418"
+  },
+  "zip": "13685",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73421"
+  },
+  "zip": "13730",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73428"
+  },
+  "zip": "13740",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7342a"
+  },
+  "zip": "13746",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73445"
+  },
+  "zip": "13802",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73466"
+  },
+  "zip": "13862",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73468"
+  },
+  "zip": "13846",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73478"
+  },
+  "zip": "14026",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73480"
+  },
+  "zip": "14005",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73483"
+  },
+  "zip": "14033",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73485"
+  },
+  "zip": "14041",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73486"
+  },
+  "zip": "14042",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7348e"
+  },
+  "zip": "14059",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a1"
+  },
+  "zip": "14092",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a3"
+  },
+  "zip": "14098",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ad"
+  },
+  "zip": "14125",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c9"
+  },
+  "zip": "14131",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d3"
+  },
+  "zip": "14220",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d9"
+  },
+  "zip": "14228",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e2"
+  },
+  "zip": "14224",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734e9"
+  },
+  "zip": "14432",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ed"
+  },
+  "zip": "14441",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ce"
+  },
+  "zip": "13480",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733dd"
+  },
+  "zip": "13490",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e4"
+  },
+  "zip": "13602",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733ef"
+  },
+  "zip": "13625",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73405"
+  },
+  "zip": "13665",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73406"
+  },
+  "zip": "13635",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7341d"
+  },
+  "zip": "13694",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73429"
+  },
+  "zip": "13743",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73438"
+  },
+  "zip": "13782",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7343c"
+  },
+  "zip": "13790",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73463"
+  },
+  "zip": "13859",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7349b"
+  },
+  "zip": "14083",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734a5"
+  },
+  "zip": "14101",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734b7"
+  },
+  "zip": "14150",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c4"
+  },
+  "zip": "14206",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734cd"
+  },
+  "zip": "14211",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734db"
+  },
+  "zip": "14301",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c3"
+  },
+  "zip": "13460",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733c8"
+  },
+  "zip": "13476",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca733e7"
+  },
+  "zip": "13611",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7340b"
+  },
+  "zip": "13669",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73410"
+  },
+  "zip": "13672",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73413"
+  },
+  "zip": "13680",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73417"
+  },
+  "zip": "13684",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73439"
+  },
+  "zip": "13783",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73453"
+  },
+  "zip": "13832",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7345c"
+  },
+  "zip": "13839",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73461"
+  },
+  "zip": "13849",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7346a"
+  },
+  "zip": "13863",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73476"
+  },
+  "zip": "14008",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7347a"
+  },
+  "zip": "14031",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7347c"
+  },
+  "zip": "14032",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73493"
+  },
+  "zip": "14065",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73497"
+  },
+  "zip": "14039",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734aa"
+  },
+  "zip": "14111",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ac"
+  },
+  "zip": "14120",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ba"
+  },
+  "zip": "14170",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734bd"
+  },
+  "zip": "14174",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c1"
+  },
+  "zip": "14204",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734c2"
+  },
+  "zip": "14203",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734d6"
+  },
+  "zip": "14222",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ec"
+  },
+  "zip": "14422",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ee"
+  },
+  "zip": "14435",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f9"
+  },
+  "zip": "14424",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73505"
+  },
+  "zip": "14482",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7350c"
+  },
+  "zip": "14513",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73522"
+  },
+  "zip": "14536",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73525"
+  },
+  "zip": "14555",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73547"
+  },
+  "zip": "14622",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7355c"
+  },
+  "zip": "14719",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73572"
+  },
+  "zip": "14738",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73574"
+  },
+  "zip": "14767",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7358c"
+  },
+  "zip": "14812",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734fc"
+  },
+  "zip": "14467",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73502"
+  },
+  "zip": "14477",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73511"
+  },
+  "zip": "14487",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73529"
+  },
+  "zip": "14548",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73538"
+  },
+  "zip": "14608",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7353a"
+  },
+  "zip": "14610",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73540"
+  },
+  "zip": "14616",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73543"
+  },
+  "zip": "14619",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7354e"
+  },
+  "zip": "14706",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73571"
+  },
+  "zip": "14760",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73596"
+  },
+  "zip": "14824",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735ac"
+  },
+  "zip": "14865",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b0"
+  },
+  "zip": "14870",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b3"
+  },
+  "zip": "14874",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7350f"
+  },
+  "zip": "14516",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73513"
+  },
+  "zip": "14504",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73516"
+  },
+  "zip": "14526",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73544"
+  },
+  "zip": "14604",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73559"
+  },
+  "zip": "14716",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7355b"
+  },
+  "zip": "14724",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73567"
+  },
+  "zip": "14747",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73576"
+  },
+  "zip": "14772",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7357c"
+  },
+  "zip": "14781",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a7"
+  },
+  "zip": "14859",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a8"
+  },
+  "zip": "14855",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7350b"
+  },
+  "zip": "14512",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73517"
+  },
+  "zip": "14522",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73518"
+  },
+  "zip": "14530",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73532"
+  },
+  "zip": "14590",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73533"
+  },
+  "zip": "14591",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73539"
+  },
+  "zip": "14611",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73549"
+  },
+  "zip": "14623",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73550"
+  },
+  "zip": "14710",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7355a"
+  },
+  "zip": "14721",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7355d"
+  },
+  "zip": "14729",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73560"
+  },
+  "zip": "14726",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73565"
+  },
+  "zip": "14736",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7356d"
+  },
+  "zip": "14750",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73570"
+  },
+  "zip": "14754",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73584"
+  },
+  "zip": "14782",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7359a"
+  },
+  "zip": "14830",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a3"
+  },
+  "zip": "14846",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735ae"
+  },
+  "zip": "14869",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c0"
+  },
+  "zip": "14894",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c7"
+  },
+  "zip": "14905",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735cb"
+  },
+  "zip": "14881",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73501"
+  },
+  "zip": "14476",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73506"
+  },
+  "zip": "14485",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73508"
+  },
+  "zip": "14505",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7351a"
+  },
+  "zip": "14502",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7351d"
+  },
+  "zip": "14544",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73530"
+  },
+  "zip": "14580",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73546"
+  },
+  "zip": "14621",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73557"
+  },
+  "zip": "14717",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73558"
+  },
+  "zip": "14718",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7358e"
+  },
+  "zip": "14816",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7359b"
+  },
+  "zip": "14837",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7359c"
+  },
+  "zip": "14838",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7359d"
+  },
+  "zip": "14839",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a4"
+  },
+  "zip": "14847",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735ab"
+  },
+  "zip": "14864",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735bb"
+  },
+  "zip": "14883",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735ca"
+  },
+  "zip": "14884",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7351e"
+  },
+  "zip": "14545",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73527"
+  },
+  "zip": "14561",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73551"
+  },
+  "zip": "14711",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73552"
+  },
+  "zip": "14712",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73555"
+  },
+  "zip": "14715",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7357d"
+  },
+  "zip": "14784",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7358f"
+  },
+  "zip": "14817",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73594"
+  },
+  "zip": "14822",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735ad"
+  },
+  "zip": "14867",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b1"
+  },
+  "zip": "14872",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73537"
+  },
+  "zip": "14609",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7355e"
+  },
+  "zip": "14723",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7357b"
+  },
+  "zip": "14779",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7358a"
+  },
+  "zip": "14813",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73599"
+  },
+  "zip": "14836",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7359e"
+  },
+  "zip": "14840",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b2"
+  },
+  "zip": "14850",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b6"
+  },
+  "zip": "14878",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c1"
+  },
+  "zip": "14885",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7350e"
+  },
+  "zip": "14514",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73515"
+  },
+  "zip": "14525",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7354d"
+  },
+  "zip": "14701",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73561"
+  },
+  "zip": "14735",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7356b"
+  },
+  "zip": "14740",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7358d"
+  },
+  "zip": "14815",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a0"
+  },
+  "zip": "14842",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735bd"
+  },
+  "zip": "14891",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734fb"
+  },
+  "zip": "14469",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734ff"
+  },
+  "zip": "14472",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73509"
+  },
+  "zip": "14507",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73521"
+  },
+  "zip": "14546",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73523"
+  },
+  "zip": "14551",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7353b"
+  },
+  "zip": "14612",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7353f"
+  },
+  "zip": "14571",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73541"
+  },
+  "zip": "14617",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7357f"
+  },
+  "zip": "14801",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7359f"
+  },
+  "zip": "14841",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a9"
+  },
+  "zip": "14861",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b4"
+  },
+  "zip": "14877",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c6"
+  },
+  "zip": "14904",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73507"
+  },
+  "zip": "14481",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7351b"
+  },
+  "zip": "14527",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7351c"
+  },
+  "zip": "14521",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73524"
+  },
+  "zip": "14550",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7352b"
+  },
+  "zip": "14569",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73556"
+  },
+  "zip": "14714",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7356e"
+  },
+  "zip": "14755",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7357a"
+  },
+  "zip": "14777",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73581"
+  },
+  "zip": "14803",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73586"
+  },
+  "zip": "14807",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73598"
+  },
+  "zip": "14826",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a1"
+  },
+  "zip": "14843",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a2"
+  },
+  "zip": "14845",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735af"
+  },
+  "zip": "14871",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b7"
+  },
+  "zip": "14882",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735bf"
+  },
+  "zip": "14892",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c4"
+  },
+  "zip": "14901",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73514"
+  },
+  "zip": "14519",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7351f"
+  },
+  "zip": "14541",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73528"
+  },
+  "zip": "14564",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7352a"
+  },
+  "zip": "14568",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7352f"
+  },
+  "zip": "14559",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7353e"
+  },
+  "zip": "14615",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7354b"
+  },
+  "zip": "14543",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73569"
+  },
+  "zip": "14743",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7356c"
+  },
+  "zip": "14753",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73578"
+  },
+  "zip": "14737",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73582"
+  },
+  "zip": "14804",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73585"
+  },
+  "zip": "14806",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73589"
+  },
+  "zip": "14809",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b5"
+  },
+  "zip": "14873",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735bc"
+  },
+  "zip": "14886",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735cc"
+  },
+  "zip": "14895",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734fe"
+  },
+  "zip": "14471",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73500"
+  },
+  "zip": "14475",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7352c"
+  },
+  "zip": "14532",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73536"
+  },
+  "zip": "14607",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7353d"
+  },
+  "zip": "14614",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7355f"
+  },
+  "zip": "14727",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73588"
+  },
+  "zip": "14810",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73590"
+  },
+  "zip": "14818",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735ba"
+  },
+  "zip": "14888",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735be"
+  },
+  "zip": "14889",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c5"
+  },
+  "zip": "14903",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734fd"
+  },
+  "zip": "14470",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73504"
+  },
+  "zip": "14480",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7350a"
+  },
+  "zip": "14489",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73512"
+  },
+  "zip": "14506",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73519"
+  },
+  "zip": "14486",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73534"
+  },
+  "zip": "14605",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73545"
+  },
+  "zip": "14620",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7354a"
+  },
+  "zip": "14533",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73563"
+  },
+  "zip": "14733",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73566"
+  },
+  "zip": "14741",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73593"
+  },
+  "zip": "14821",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a6"
+  },
+  "zip": "14853",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735aa"
+  },
+  "zip": "14860",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73503"
+  },
+  "zip": "14478",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7352d"
+  },
+  "zip": "14572",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73554"
+  },
+  "zip": "14709",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73564"
+  },
+  "zip": "14739",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7356f"
+  },
+  "zip": "14757",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73573"
+  },
+  "zip": "14769",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73575"
+  },
+  "zip": "14770",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73579"
+  },
+  "zip": "14775",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7357e"
+  },
+  "zip": "14787",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73583"
+  },
+  "zip": "14805",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73591"
+  },
+  "zip": "14819",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73595"
+  },
+  "zip": "14823",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735a5"
+  },
+  "zip": "14858",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b9"
+  },
+  "zip": "14879",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c2"
+  },
+  "zip": "14897",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735c3"
+  },
+  "zip": "14898",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734f8"
+  },
+  "zip": "14468",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca734fa"
+  },
+  "zip": "14425",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73510"
+  },
+  "zip": "14517",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73520"
+  },
+  "zip": "14534",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73526"
+  },
+  "zip": "14560",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7352e"
+  },
+  "zip": "14586",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73535"
+  },
+  "zip": "14606",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73542"
+  },
+  "zip": "14618",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73548"
+  },
+  "zip": "14624",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7354c"
+  },
+  "zip": "14626",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73553"
+  },
+  "zip": "14625",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73568"
+  },
+  "zip": "14744",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73580"
+  },
+  "zip": "14802",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73587"
+  },
+  "zip": "14808",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7350d"
+  },
+  "zip": "14510",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73531"
+  },
+  "zip": "14589",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7353c"
+  },
+  "zip": "14613",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7354f"
+  },
+  "zip": "14708",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73562"
+  },
+  "zip": "14728",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7356a"
+  },
+  "zip": "14748",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73577"
+  },
+  "zip": "14731",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca7358b"
+  },
+  "zip": "14814",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73592"
+  },
+  "zip": "14820",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca73597"
+  },
+  "zip": "14825",
+  "state": "NY"
+},{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca735b8"
+  },
+  "zip": "14880",
+  "state": "NY"
+}]

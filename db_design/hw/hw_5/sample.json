@@ -1,0 +1,20 @@
+{
+    "wrapperType": "artist",
+    "artistType": "Artist",
+    "artistName": "Jack Johnson",
+    "artistLinkUrl": "https://music.apple.com/us/artist/jack-johnson/909253?uo=4",
+    "artistId": 909253,
+    "amgArtistId": 468749,
+    "primaryGenreName": "Rock",
+    "primaryGenreId": 21
+},
+{
+    "wrapperType": "artist",
+    "artistType": "Artist",
+    "artistName": "U2",
+    "artistLinkUrl": "https://music.apple.com/us/artist/u2/78500?uo=4",
+    "artistId": 78500,
+    "amgArtistId": 5723,
+    "primaryGenreName": "Rock",
+    "primaryGenreId": 21
+}
