@@ -1,1 +1,0 @@
-"0","lda.fit = lda(mpg01 ~ cylinders + displacement + horsepower + weight + year + origin, data = Auto, subset = train)"

@@ -1,1 +1,0 @@
-{"frames":[{"func":"mean(Auto1_pred != test1$mpg01)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in mean(Auto1_pred != test1$mpg01) : object 'Auto1_pred' not found\n"}

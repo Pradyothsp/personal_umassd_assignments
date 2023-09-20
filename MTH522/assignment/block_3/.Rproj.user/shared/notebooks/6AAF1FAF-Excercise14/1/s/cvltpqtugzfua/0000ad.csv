@@ -1,1 +1,0 @@
-"0","plot(Auto$displacement, Auto$mpg01, xlab = ""Engine displacement (cubic inches)"")"

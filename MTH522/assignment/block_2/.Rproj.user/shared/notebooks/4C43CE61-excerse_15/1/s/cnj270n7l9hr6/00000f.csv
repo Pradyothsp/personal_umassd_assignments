@@ -1,4 +1,0 @@
-"0","for(i in row.names(df_coefs)){"
-"0","  reg_model = lm(crim~eval(str2lang(i)), data=boston)"
-"0","  df_coefs[row.names(df_coefs)==i, ""simple_coefs""] = coef(reg_model)[2]"
-"0","}"

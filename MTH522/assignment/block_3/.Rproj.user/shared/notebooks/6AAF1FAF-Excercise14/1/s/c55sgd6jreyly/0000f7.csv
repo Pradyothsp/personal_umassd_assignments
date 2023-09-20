@@ -1,1 +1,0 @@
-"0","plot(factor(Auto$mpg01), Auto$horsepower, ylab = ""Horsepower"")"
