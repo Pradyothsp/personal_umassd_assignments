@@ -1,0 +1,7 @@
+matplotlib
+pandas
+numpy
+seaborn
+altair
+tqdm
+vega-datasets
