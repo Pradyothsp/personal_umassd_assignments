@@ -54,7 +54,7 @@ function createLineChart(data) {
         .call(yAxis);
 
     // Create line generators for each dataset
-    const tension = 0.7; // Adjust the tension value (between 0 and 1) as needed
+    const tension = 0.5; // Adjust the tension value (between 0 and 1) as needed
 
     const lineRawMaterial = d3.line()
         .x(d => xScale(d.Date))
